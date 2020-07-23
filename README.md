@@ -16,12 +16,12 @@ __Task by: SurveySparrow | UI Development__
   * [License](#license)
   
 
-  • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, JS, REACT.JS___ on ___Heroku___ platform.
+  • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, JS, REACT.JS___ on ___github pages___ platform.
     
 
 ## Demo
    • If you are searching for __Code__,.. you won't find it here. Click the link mentioned below for the same:<br />
-     Link: https://github.com/Karanmehra7107/Internship-Front-End/edit/master/
+     Link: https://karanmehra7107.github.io/Internship-Front-End/
 
    • Please do ⭐ the repository, if it helped you in anyway.
 
