@@ -49,28 +49,34 @@ This project is divided into two part:
 
 ## Directory Tree 
 ```
-├── Readme resources 
-│   └── ipl-first-innings-score-web-app.gif
-├── Static
-│   ├── csk.png
-│   ├── dc.png
-│   ├── ipl_favoutite.icon
-│   ├── kkr.jpg
-│   ├── kxip.png
-│   ├── mi.jpg
-│   ├── rcb.jpg
-│   ├── rr.jpg
-│   ├── srh.jpg
-│   └── style.css
-├── Templates
-│   ├── index.html
-│   └── result.html
-├── First Innings Score Prediction - IPL.py
-├── Procfile
+├── contactform
+├── CSS
+│   ├── style.css
+│   └── scss-files
+├── img
+│   └── Banner.png
+│   └── Feature-1.svg
+│   └── Feature-2.svg
+│   └── intro-bg.png
+│   └── intro-img.jpeg
+├── JS
+│   └── main.js
+├── lib
+│   └── animate.css
+│   └── bootstrap
+│   └── counterup
+│   └── easing
+│   └── font-awsome
+│   └── ionicons
+│   └── isotopes
+│   └── jquery
+│   └── lightbox
+│   └── mobile-nav
+│   └── owlcarousel
+│   └── waypoints
+│   └── wow
+├── index.html
 ├── README.md
-├── app.py
-├── first-innings-score-lr-model.pkl
-├── ipl.csv
 └── requirements.txt
 ```
 
@@ -86,7 +92,7 @@ This project is divided into two part:
 
 ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
+![](https://forthebadge.com/images/badges/made-with-JavaScript.svg)
 
 [<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://www.kindpng.com/picc/b/301/3012484.png" width=200>](https://aws.amazon.com/s3/) 
 
