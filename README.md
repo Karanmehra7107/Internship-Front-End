@@ -12,7 +12,6 @@ __Task by: SurveySparrow | UI Development__
   * [Directory Tree](#directory-tree)
   * [To Do](#to-do)
   * [Feature](#feature)
-  * [Technologies Used](#technologies-used)
   * [Team](#team)
   * [License](#license)
   
@@ -87,13 +86,7 @@ This project is divided into two part:
 -  Hover animation on the top to web page 
 -  Responsive Webpage
 
-## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-JavaScript.svg)
-
-[<img target="_blank" src="https://html.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://www.kindpng.com/picc/b/301/3012484.png" width=200>](https://aws.amazon.com/s3/) 
-
-[<img target="_blank" src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" width=270>](https://www.sentry.io/) [<img target="_blank" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" width=100>](https://jquery.com/)
 
 ## Team
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fs4h7fZ/Pics-Art-05-30-07-58-11.jpg" alt="PicsArt_05-30-07.58.11" border="0">
