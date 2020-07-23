@@ -79,8 +79,8 @@ This project is divided into two part:
 │   └── waypoints
 │   └── wow
 ├── index.html
-├── README.md
-└── requirements.txt
+└── README.md
+
 ```
 
 ## To Do
