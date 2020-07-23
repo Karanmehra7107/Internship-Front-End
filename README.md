@@ -26,7 +26,7 @@ __Task by: SurveySparrow | UI Development__
    • Please do ⭐ the repository, if it helped you in anyway.
 
    • A glimpse of the web app:
-
+                                                                        __output__
 
 ![Animated GIF-downsized_large (7)](https://user-images.githubusercontent.com/62024355/88308233-6d0b5080-cd2a-11ea-92a5-0d264f4e24bc.gif)
 
