@@ -20,12 +20,15 @@ __Task by: SurveySparrow | UI Development__
     
 
 ## Demo
-   • If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you won't find it here. Click the link mentioned below for the same:<br />
+   • If you are searching for __Code__,.. you won't find it here. Click the link mentioned below for the same:<br />
      Link: https://github.com/Karanmehra7107/Internship-Front-End/edit/master/
 
    • Please do ⭐ the repository, if it helped you in anyway.
 
    • A glimpse of the web app:
+
+
+![Animated GIF-downsized_large (7)](https://user-images.githubusercontent.com/62024355/88308233-6d0b5080-cd2a-11ea-92a5-0d264f4e24bc.gif)
 
 
 ## Problem statment
