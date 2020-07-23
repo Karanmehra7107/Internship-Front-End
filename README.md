@@ -30,6 +30,10 @@ __Task by: SurveySparrow | UI Development__
 
 ## Problem statment
 Develop a responsive website by referring the below link.
+
+
+![Untitled](https://user-images.githubusercontent.com/62024355/88307802-f9694380-cd29-11ea-8f5f-ec2ba77e6291.jpg)
+
 https://www.dropbox.com/scl/fi/qx0i2w3v51hetxx9x2s57/Front-End-Developer-Machine-Test-intermediate.papert?dl=0&rlkey=xkq3wxdlg3bxb9kyumkr5iwc8
 
 
