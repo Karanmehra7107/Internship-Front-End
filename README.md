@@ -1,24 +1,21 @@
 # Internship-Front-End deployment
-Task by: SurveySparrow | UI Development
+__Task by: SurveySparrow | UI Development__
 
 
 ![html](https://img.shields.io/badge/language-html-blue.svg) ![CSS](https://img.shields.io/badge/design-CSS-brightgreen.svg) ![JavaScript](https://img.shields.io/badge/code-JavaScript-orange.svg)  ![react.js](https://img.shields.io/badge/language-react.js-blue.svg)
 
 ## Table of Content
   * [Demo](#demo)
-  * [Overview](#overview)
+  * [Problem statment](#Problem-statment)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
-  * [Installation](#installation)
-  * [Run](#run)
-  * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [To Do](#to-do)
-  * [Bug / Feature Request](#bug---feature-request)
+  * [Feature](#feature)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
   * [License](#license)
-  * [Credits](#credits)
+  
 
   • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, JS, REACT.JS___ on ___Heroku___ platform.
     
@@ -120,7 +117,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-## Credits
- - This project wouldn't have been possible without this tool. It saved my enormous amount of time while collecting the data. A huge shout-out to its creator [Rowhit swami](https://github.com/rowhitswami).
+
 
 
