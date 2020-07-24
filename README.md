@@ -5,8 +5,8 @@ __Task by: SurveySparrow | UI Development__
 ![html](https://img.shields.io/badge/language-html-blue.svg) ![CSS](https://img.shields.io/badge/design-CSS-brightgreen.svg) ![JavaScript](https://img.shields.io/badge/code-JavaScript-orange.svg)  ![react.js](https://img.shields.io/badge/language-react.js-blue.svg)
 
 ## Table of Content
-  * [Demo](#demo)
   * [Problem statment](#Problem-statment)
+  * [Demo](#demo)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Directory Tree](#directory-tree)
@@ -18,6 +18,13 @@ __Task by: SurveySparrow | UI Development__
 
   • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, JS, REACT.JS___ on ___github pages___ platform.
     
+## Problem statment
+Develop a responsive website by referring the below link.
+
+![Untitled](https://user-images.githubusercontent.com/62024355/88308761-0c304800-cd2b-11ea-989a-50ac3f31f8d7.jpg)
+
+
+https://www.dropbox.com/scl/fi/qx0i2w3v51hetxx9x2s57/Front-End-Developer-Machine-Test-intermediate.papert?dl=0&rlkey=xkq3wxdlg3bxb9kyumkr5iwc8
 
 ## Demo
    • If you are searching for __Code__,.. you won't find it here. Click the link mentioned below for the same:<br />
@@ -30,14 +37,6 @@ __Task by: SurveySparrow | UI Development__
 
 ![Animated GIF-downsized_large (7)](https://user-images.githubusercontent.com/62024355/88308233-6d0b5080-cd2a-11ea-92a5-0d264f4e24bc.gif)
 
-
-## Problem statment
-Develop a responsive website by referring the below link.
-
-![Untitled](https://user-images.githubusercontent.com/62024355/88308761-0c304800-cd2b-11ea-989a-50ac3f31f8d7.jpg)
-
-
-https://www.dropbox.com/scl/fi/qx0i2w3v51hetxx9x2s57/Front-End-Developer-Machine-Test-intermediate.papert?dl=0&rlkey=xkq3wxdlg3bxb9kyumkr5iwc8
 
 
 ## Motivation
