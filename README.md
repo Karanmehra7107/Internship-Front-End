@@ -46,7 +46,7 @@ What could be a perfect way to utilize unfortunate lockdown period? Like most of
 ## Technical Aspect
 This project is divided into two part:
 1. Front-End Html, Css, JavaScript codes
-2. Building and hosting a Flask web app on Heroku.
+2. Building and hosting web app on Git_Pages.
 
 
 
