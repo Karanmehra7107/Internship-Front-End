@@ -6,11 +6,11 @@ __Task by: SurveySparrow | UI Development__
 
 ## Table of Content
   * [Problem statment](#Problem-statment)
+  * [To Do](#to-do)
   * [Demo](#demo)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Directory Tree](#directory-tree)
-  * [To Do](#to-do)
   * [Feature](#feature)
   * [Team](#team)
   * [License](#license)
@@ -25,6 +25,11 @@ Develop a responsive website by referring the below link.
 
 
 https://www.dropbox.com/scl/fi/qx0i2w3v51hetxx9x2s57/Front-End-Developer-Machine-Test-intermediate.papert?dl=0&rlkey=xkq3wxdlg3bxb9kyumkr5iwc8
+
+## To Do
+1. Push your code to a repository in Github. 
+2. Host your application somewhere and then it should be accessible through the browser by a URL.
+
 
 ## Demo
    • If you are searching for __Code__,.. you won't find it here. Click the link mentioned below for the same:<br />
@@ -81,10 +86,6 @@ This project is divided into two part:
 └── README.md
 
 ```
-
-## To Do
-1. Push your code to a repository in Github. 
-2. Host your application somewhere and then it should be accessible through the browser by a URL.
 
 ## Feature 
 -  If you click the minimize button of the chat box shown bottom rigth of web page, the chat box open with __margine-right:20px__ 
