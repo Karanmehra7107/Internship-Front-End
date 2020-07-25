@@ -98,15 +98,15 @@ This project is divided into two part:
 ## Run
 __windows cmd__
 ```bash
-  start https://karanmehra7107.github.io/Internship-Front-End/
+   start https://karanmehra7107.github.io/Internship-Front-End/
 ```
 __MacOS cmd__
 ```bash
-    open https://karanmehra7107.github.io/Internship-Front-End/
+   open https://karanmehra7107.github.io/Internship-Front-End/
 ```
 __Linux/Unix cmd__
 ```bash
-      xdg-open https://karanmehra7107.github.io/Internship-Front-End/
+   xdg-open https://karanmehra7107.github.io/Internship-Front-End/
 ```
 
 ## Feature 
