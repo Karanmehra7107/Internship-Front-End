@@ -44,6 +44,12 @@ https://www.dropbox.com/scl/fi/qx0i2w3v51hetxx9x2s57/Front-End-Developer-Machine
 ![Animated GIF-downsized_large (7)](https://user-images.githubusercontent.com/62024355/88308233-6d0b5080-cd2a-11ea-92a5-0d264f4e24bc.gif)
 
 
+## Download Files
+__windows cmd__
+```bash
+wget https://github.com/Karanmehra7107/Internship-Front-End.git
+  ```
+ 
 
 ## Motivation
 What could be a perfect way to utilize unfortunate lockdown period? Like most of you, I spend my time in cooking, Netflix, coding, Learning and reading some latest research papers on weekends. Finding internship lead to make this project.
