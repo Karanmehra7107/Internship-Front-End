@@ -11,6 +11,7 @@ __Task by: SurveySparrow | UI Development__
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Directory Tree](#directory-tree)
+  * [Run](#run)
   * [Feature](#feature)
   * [Team](#team)
   * [License](#license)
@@ -88,9 +89,17 @@ This project is divided into two part:
 ```
 
 ## Run
-__windows__
+__windows cmd__
 ```bash
   start https://karanmehra7107.github.io/Internship-Front-End/
+```
+__MacOS cmd__
+```bash
+    open https://karanmehra7107.github.io/Internship-Front-End/
+```
+__Linux/Unix cmd__
+```bash
+      xdg-open https://karanmehra7107.github.io/Internship-Front-End/
 ```
 
 ## Feature 
